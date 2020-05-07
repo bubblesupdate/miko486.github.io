@@ -2,28 +2,10 @@ theme:jeky11-theme-cayman
 
 # Header
 
-menu:
+# menu:
   主页: /
   所有文章: /allPages
   随笔: /tags
   相册: /photos
   豆瓣: [豆瓣](https://www.douban.com/people/122012506/)
   
-# SubNav
-subnav:
-  github: "https://github.com/miko486/"
-  weibo: "#"
-  rss: /atom.xml
-  zhihu: "#"
-  #qq: "#"
-  #weixin: "#"
-  #jianshu: "#"
-  #douban: "#"
-  #segmentfault: "#"
-  #bilibili: "#"
-  #acfun: "#"
-  #mail: "#"
-  #facebook: "#"
-  #google: "#"
-  #twitter: "#"
-  #linkedin: "#"
