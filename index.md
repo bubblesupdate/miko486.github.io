@@ -1,6 +1,5 @@
 ## Welcome
 
-
 # 个人简历
 
 ### 基本信息
@@ -29,9 +28,8 @@
 ### 在哪里找到我
 
 - [豆瓣](https://www.douban.com/people/122012506/)
-- 开眼视频
-- B站
 
+- [吡哩吡哩](https://space.bilibili.com/95919629?from=search&seid=10009405581666670547)
 ### 喜欢的城市
 
 - 桂林
@@ -40,7 +38,7 @@
 - 东京
 
 
- **_感谢您阅读我的个人简介，希望有机会与您共事。_**
+ 
  
 
 **Bold** and _Italic_ and `Code` text
@@ -56,6 +54,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/miko486/miko486.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+**_感谢您阅读我的个人简介，希望有机会与您共事。_**
 
 ### Support or Contact
 
