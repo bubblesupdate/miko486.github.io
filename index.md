@@ -24,32 +24,24 @@
 
 
 ### 在这里找到我
+- 有些不适合在朋友圈的动态还是要表达呢，总是要说地
+-  在这里找到我->[豆瓣](https://www.douban.com/people/122012506/)
 
-- [豆瓣](https://www.douban.com/people/122012506/)
-
-- [吡哩吡哩](https://space.bilibili.com/95919629?from=search&seid=10009405581666670547)
 
 ### 我的书摊
 
 - 我喜欢看书也喜欢买书，不良反映就是买多了书没地方放，
    我把看过的书都重新投入市场，让书籍流通起来。
-  这是我的书摊店铺 快来捡漏吧[江湖水客](https://m.kongfz.com/newshop/414596)
+   我的书摊关闭4个月，2020年9月12号营业。  
 
-### 在学习的项目
+### 在学习的计算机项目
 
-- [vim](https://github.com/miko486/miko486.github.io/blob/master/vim/vim.md#vim)
+- vim
 
 - python
 
-- libreoffice
- 
- 
-
 
 ### 联系与支持
-
-
-- [豆瓣](https://www.douban.com/people/122012506/)
 
 - Email：vxxo88@163.com
 
