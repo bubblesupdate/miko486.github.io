@@ -1,45 +1,32 @@
 ## Welcome
+## 2023年2月14日
 
-# 个人网站
+  # 哈喽！落单日啦！
+### 🌈
 
-### 自我介绍
+- 很高兴您今天来到我的个人主页
 
-- 很高兴你来到我的个人网站，你可以称呼我**Miko**,我是一个技术爱好者，
-  喜欢接受新事物，接受挑战，当然在生活中我着广泛的兴趣爱好
+# [今日文案](http://m.wufazhuce.com/one/3884)
+### 推文
 
-
-
-
-
-### 兴趣爱好
-
-- 喜欢滑板运动 [绅士滑板](https://www.eyepetizer.net/detail.html?utm_source=wechat-moments&vid=3036&resourceType=video&deviceModel=iPhone&utm_medium=share&vn=6.2.0&uid=302796229&utm_campaign=routine&udid=b0164ae2c5d29a21829e009d1105e6fa098ccc9a&vc=6802)
+- 这世界上本就没有任何一句话，可以让你醍醐灌顶。真正叫你醍醐灌顶的只能是一段经历，而那句话只是火药仓库内划燃的一根火柴。 -- 刘震云
 
 
-- 喜欢看的电影类型：家庭 剧情 科幻
+### 关于我
 
-- 读书 社科 生活类
+- 我的哔哩哔哩账户是:[苏安海棠](https://b23.tv/yGoXBas)
 
-- 音乐
+- 我的网易音乐帐号是:[苏安海棠](https://y.music.163.com/m/user?id=1469851129&dlt=0846&app_version=8.9.20)
+
+- 关于我的微博账号是:[苏安海棠](https://weibo.com/u/6515990299)
 
 
 
-### 我的书架
-
-- 我喜欢看书也喜欢买书，不良反映就是买多了书没地方放，
-   我把看过的书都重新投入市场，让书籍流通起来。
-   我的书  
-
-### 在学习的计算机项目
-
-- vim
-
-- python
 
 
 ### 联系与支持
 
-- Email：fabute@163.com
+- Email：vxxo@outkook.com
 
-**_感谢您阅读我的个人简介，希望有机会与您共事。_**
+**_感谢您阅读我的个人主页，希望有机会与您共事。_**
 
