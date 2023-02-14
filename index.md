@@ -27,5 +27,5 @@
 - Email：[vxxo@outkook.com](http://vxxo@outlook.com)
 
 
-**_很高兴认识你，希望有机会与您共事。_**
+**_很高兴认识你，希望有机会与你共事。_**
 
