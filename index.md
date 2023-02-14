@@ -24,9 +24,7 @@
 ### 联系与支持
 
 
-- Email：
-> <ahref="mailto:vxxo@outlook.com">vxxo@outkool.com</a> 
-
+- Email：vxxo@outlook.com
 
 **_很高兴认识你，希望有机会与你共事。_**
 
