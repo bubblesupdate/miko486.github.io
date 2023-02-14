@@ -8,7 +8,6 @@
 
 - 这世界上本就没有任何一句话，可以让你醍醐灌顶。真正叫你醍醐灌顶的只能是一段经历，而那句话只是火药仓库内划燃的一根火柴。 -- 刘震云
 
-### 点这里查看今日 [文案](http://m.wufazhuce.com/one/)
 
 ### 关于我
 
@@ -19,12 +18,13 @@
 - 关于我的微博账号是:[苏安海棠](https://weibo.com/u/6515990299)
 
 
-
+### 点击查看 [今日文案](http://m.wufazhuce.com/one/)
 
 
 ### 联系与支持
 
-- Email：[vxxo@outkook.com](http://vxxo@outlook.com)
+
+- Email：[vxxo@outkook.com]
 
 
 **_很高兴认识你，希望有机会与你共事。_**
